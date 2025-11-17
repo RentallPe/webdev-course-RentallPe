@@ -72,11 +72,14 @@ https://youtu.be/5DU6wJm21i0
 # Parte 3: Fundamentos de Estructura y Navegación en HTML
 
 ## Objetivo 
+
+
 Dominar los elementos esenciales de HTML para **organizar información** mediante listas, **insertar contenido visual** accesible con imágenes y **conectar documentos** web a través de enlaces, permitiendo la creación de páginas web estructuradas y navegables.
 ---
 ##  Teoría
 
 ### 1. Listas (`<ul>`, `<ol>` y `<li>`)
+
 Sirven para agrupar información. Siempre requieren una etiqueta contenedora y etiquetas para los ítems.
 
 * **`<ul>` (Unordered List):** Crea una lista desordenada con **viñetas** (puntos). Se usa cuando el orden de los elementos no altera el sentido.
@@ -84,6 +87,7 @@ Sirven para agrupar información. Siempre requieren una etiqueta contenedora y e
 * **`<li>` (List Item):** Es cada ítem individual. Va anidado dentro de `<ul>` u `<ol>`.
 
 ### 2. Imágenes (`<img>`)
+
 Permite incrustar contenido visual. Es una etiqueta "vacía" (no tiene cierre `</img>`).
 
 * **`src` (Source):** Atributo obligatorio que indica la **ruta** o URL donde se encuentra la imagen.
@@ -91,6 +95,7 @@ Permite incrustar contenido visual. Es una etiqueta "vacía" (no tiene cierre `<
 * **`width` / `height`:** Definen el ancho y alto para reservar el espacio visual.
 
 ### 3. Enlaces (`<a>`)
+
 Es el elemento "ancla" (*Anchor*) que permite la navegación (hipertexto).
 
 * **`href` (Hypertext Reference):** Atributo obligatorio que define el **destino** (URL) al que se dirige el usuario al hacer clic.
