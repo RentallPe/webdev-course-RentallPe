@@ -26,6 +26,17 @@ Universidad Peruana de Ciencias Aplicadas
 | Torrejón Navarro, Braulio Rodrigo | U201711828 |
 
 
+# Tabla de Videos Explicativos
+
+| Parte / Capítulo | Tema / Sección                                | Enlace al Video                                                                 |
+|------------------|-----------------------------------------------|---------------------------------------------------------------------------------|
+| Parte 1          | Introducción al desarrollo web y JSFiddle     | [https://youtu.be/5DU6wJm21i0](https://youtu.be/5DU6wJm21i0)                     |
+| Parte 2          | Introducción a HTML                           | [https://youtu.be/aF9WwEA8njA](https://youtu.be/aF9WwEA8njA)                     |
+| Parte 3          | Fundamentos de estructura y navegación en HTML| https://youtu.be/FF4m9LQd9HE                            |
+| Parte 4          | Introducción a CSS                            | [https://youtu.be/owa--QCDIPk?si=G_afU5FmXVHjpZHd](https://youtu.be/owa--QCDIPk?si=G_afU5FmXVHjpZHd) |
+| Capítulo 5       | Crear una página web sencilla (HTML + CSS)    | [https://youtu.be/UExaAIWPufk](https://youtu.be/UExaAIWPufk)                     |
+
+
 
 </div>
 
@@ -154,7 +165,7 @@ Es el elemento "ancla" (*Anchor*) que permite la navegación (hipertexto).
 * **Contenido (Texto ancla):** Lo que va entre `<a>` y `</a>` es lo que el usuario ve y puede cliquear.
 * **`target="_blank"`:** Atributo opcional que fuerza al navegador a abrir el enlace en una **pestaña nueva**.
 
-
+Video explicativo: https://youtu.be/FF4m9LQd9HE
 
 # Parte 4: Introducción a CSS
 
