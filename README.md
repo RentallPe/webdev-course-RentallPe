@@ -168,6 +168,35 @@ Es el elemento "ancla" (*Anchor*) que permite la navegación (hipertexto).
 
 Video explicativo: https://youtu.be/FF4m9LQd9HE
 
+Code:
+
+
+<h1>Receta de pure de papa</h1>
+
+<h2>Ingredientes</h2>
+<ul>
+  <li>3 papas blancas</li>
+  <li>2 papas amarillas</li>
+  <li>80 gramos de mantequilla</li>
+  <li>Leche fresca, cantidad necesaria</li>
+  <li>sal</li>
+  <li>Pimienta blanca</li>
+  <li>Nuez moscada</li>
+</ul>
+
+<h2>Procedimiento</h2>
+<ol>
+  <li>Cocer las papas en suficiente agua con 1 cucharada de sal. Pelarlas y prensarlas aún calientes. </li>
+  <li>Llevar las papas prensadas a una olla a fuego medio-bajo. Sazonar con sal, pimienta blanca y nuez moscada al gusto. Añadir la mantequilla y verter poco a poco leche fresca, mezclando, hasta alcanzar la textura deseada. </li>
+  <li>Servir. Se puede acompañar con asado y arroz blanco graneado.</li>
+</ol>
+
+<img src="https://jameaperu.com/assets/images/pure-de-papa_800x534.webp" alt="pure de papa">
+<p>Link de la <a href="https://buenazo.pe/recetas/guarnicionespure-papa-809" target="_blank">Receta</a></p>
+
+
+
+
 # Parte 4: Introducción a CSS
 
 ## Objetivo
