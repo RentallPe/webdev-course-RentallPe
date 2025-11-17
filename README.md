@@ -34,7 +34,8 @@ Universidad Peruana de Ciencias Aplicadas
 | Parte 2          | Introducción a HTML                           | [https://youtu.be/aF9WwEA8njA](https://youtu.be/aF9WwEA8njA)                     |
 | Parte 3          | Fundamentos de estructura y navegación en HTML| https://youtu.be/FF4m9LQd9HE                            |
 | Parte 4          | Introducción a CSS                            | [https://youtu.be/owa--QCDIPk?si=G_afU5FmXVHjpZHd](https://youtu.be/owa--QCDIPk?si=G_afU5FmXVHjpZHd) |
-| Capítulo 5       | Crear una página web sencilla (HTML + CSS)    | [https://youtu.be/UExaAIWPufk](https://youtu.be/UExaAIWPufk)                     |
+| Parte 5       | Crear una página web sencilla (HTML + CSS)    | [https://youtu.be/UExaAIWPufk](https://youtu.be/UExaAIWPufk)                     |
+| Parte 6       | Consejos y proximos pasos  | [https://youtu.be/UExaAIWPufk](https://youtu.be/UExaAIWPufk)                     |
 
 
 
