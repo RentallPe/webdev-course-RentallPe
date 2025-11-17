@@ -1,3 +1,35 @@
+<div align="center">
+  <img width="300" height="300" alt="UPC_logo_transparente" src="https://github.com/user-attachments/assets/19ec3b71-d2c6-4c4b-939f-dc5cc951dd94" />
+
+</div>
+
+<div align="center">
+Universidad Peruana de Ciencias Aplicadas
+
+##  Ingeniería de Software
+
+## Ciclo 05
+
+## Aplicaciones Web -  7468
+
+## 
+**Profesor:** Ángel Augusto Velásquez Núñez  
+## INFORME DE Trabajo 
+**Startup:** RentallPE  
+
+
+| Integrante                        | Código     |
+| --------------------------------- | ---------- |
+| Saravia Huaricancha, Arturo Axel  | U202312447 |
+| Cumba Rengifo, Leonardo Raúl      | U202311912 |
+| Pérez Tuesta, Gabriel             | U202321281 |
+| Torrejón Navarro, Braulio Rodrigo | U201711828 |
+
+
+
+</div>
+
+
 # Parte 1: ¿Que es el desarrollo web?
 
 ## ¿Qué es el desarrollo web?
