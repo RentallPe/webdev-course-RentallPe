@@ -35,7 +35,7 @@ Universidad Peruana de Ciencias Aplicadas
 | Parte 3          | Fundamentos de estructura y navegación en HTML| https://youtu.be/FF4m9LQd9HE                            |
 | Parte 4          | Introducción a CSS                            | [https://youtu.be/owa--QCDIPk?si=G_afU5FmXVHjpZHd](https://youtu.be/owa--QCDIPk?si=G_afU5FmXVHjpZHd) |
 | Parte 5       | Crear una página web sencilla (HTML + CSS)    | [https://youtu.be/UExaAIWPufk](https://youtu.be/UExaAIWPufk)                     |
-| Parte 6       | Consejos y proximos pasos  | [https://youtu.be/UExaAIWPufk](https://youtu.be/UExaAIWPufk)                     |
+| Parte 6       | Consejos y proximos pasos  | https://youtu.be/cQO8vDSFCQM                    |
 
 
 
@@ -402,6 +402,88 @@ El objetivo es que los estudiantes se interesen por la programación web y pueda
 
 Video explicativo: https://youtu.be/UExaAIWPufk
 ---
+# Capítulo 6 – Mejores Prácticas y Continuidad en el Desarrollo Web
+
+## Introducción
+En esta sesión final no se trata de aprender un nuevo código, sino de **reflexionar** sobre cómo llevar nuestro trabajo al siguiente nivel.  
+Hablaremos de **mejores prácticas**, **errores comunes** y **dónde continuar aprendiendo**.
+
+---
+
+## Mejores Prácticas
+
+El desarrollo web no basta con que el código funcione, debe ser:
+- **Sostenible**
+- **Legible**
+- **Eficiente**
+
+Siempre piensa en el siguiente desarrollador que leerá tu código (muy probablemente serás tú mismo en 6 meses).
+
+### Tres palabras clave:
+1. **Limpieza semántica**  
+   - Usar etiquetas HTML con significado: `<header>`, `<footer>`, `<article>`.
+2. **Modularidad en CSS**  
+   - Evitar estilos globales desordenados.  
+   - Organizar CSS para que cada componente sea independiente.
+3. **Comentarios útiles**  
+   - Documentar las partes complejas del código.  
+   - Evitar comentarios obvios, enfocarse en lo que realmente necesita explicación.
+
+---
+
+## Errores Comunes
+
+1. **Dependencia de un solo navegador**  
+   - Probar siempre en **Chrome, Firefox y Safari**.  
+   - Lo que funciona en uno puede romperse en otro.
+
+2. **Código “spaghetti”**  
+   - Mezclar lógica de JavaScript dentro de HTML o viceversa.  
+   - Mantener la **separación de responsabilidades**:  
+     - HTML → estructura  
+     - CSS → estilo  
+     - JavaScript → comportamiento
+
+---
+
+## Consejos Claves y Referencias
+
+### 1. Validar tu código
+- Regla de oro: usar herramientas de validación para revisar sintaxis de **HTML, CSS y JavaScript**.  
+- Detecta errores que el navegador o tus ojos pueden pasar por alto.  
+- Un código validado es un código robusto.
+
+### 2. Explorar la documentación en MDN
+- **MDN (Mozilla Developer Network)** es la biblia del desarrollo web.  
+- Fuente confiable y detallada para propiedades de CSS y métodos de JavaScript.  
+- Siempre consulta MDN cuando tengas dudas.
+
+---
+
+## Control de Versiones y Futuro Profesional
+
+- Adoptar el uso de **Git** y plataformas como **GitHub**.  
+- Beneficios:
+  - Historial de tu código.
+  - Volver a versiones anteriores si cometes errores.
+  - Trabajo en equipo más organizado.
+- **Portafolio visible**:  
+  - Publicar tu código en GitHub es esencial para entrevistas y empleadores.  
+  - Si tu código no está en GitHub, es como si no existiera.  
+  - GitHub es la plataforma más popular de repositorios y control de versiones en el mundo.
+
+---
+
+## Conclusión
+La lección 6 nos invita a reflexionar sobre cómo mejorar continuamente como desarrolladores:  
+- Aplicar **mejores prácticas**.  
+- Evitar **errores comunes**.  
+- Usar **herramientas de validación** y **documentación confiable**.  
+- Adoptar **Git y GitHub** para crecer profesionalmente y construir un portafolio sólido.
+
+Video explicativo:  https://youtu.be/cQO8vDSFCQM
+---
+
 
 ## Elaboración
 # Universidad Peruana de Ciencias Aplicadas
