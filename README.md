@@ -19,7 +19,15 @@ Incluye:
 
 
 
-## Otros aspectos importantes
+# ¿Qué es JSFiddle?
+
+**JSFiddle** es un entorno de pruebas online que permite escribir y ejecutar código **HTML**, **CSS** y **JavaScript** directamente desde el navegador.
+
+### Características principales
+- Ideal para aprender, experimentar y compartir ejemplos sin necesidad de configurar un proyecto local.
+- Cada proyecto se llama **fiddle** y puede guardarse y compartirse mediante un enlace único.
+- Perfecto para probar ideas rápidas, crear demos o pedir ayuda en foros.
+---
 
 
 # Parte 4: Introducción a CSS
